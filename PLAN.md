@@ -6,10 +6,10 @@ Meta: ingresos pasivos con una guía PDF (US$12) para dominicanos en el exterior
 - [x] Producto: guía "Trámites RD desde el Exterior" (10 páginas), en el repo privado `Bsser/tramites-rd-exterior-privado`
 - [x] PDF gratis: `estaticos/errores-tramites-rd.pdf`
 - [x] Blog: este repo → `python build.py` genera `docs/`
-- [ ] Publicado en GitHub Pages: https://bsser.github.io/tramites-rd-exterior
-- [ ] Gumroad: https://jontastic64.gumroad.com/l/tramites-rd-exterior
-- [ ] Google Search Console
-- [ ] Tarea diaria programada
+- [x] Publicado en GitHub Pages: https://bsser.github.io/tramites-rd-exterior
+- [x] Gumroad: https://jontastic64.gumroad.com/l/tramites-rd-exterior (publicado 2026-11-24, US$12)
+- [x] Google Search Console: verificado (etiqueta meta en build.py, no quitarla) y sitemap enviado
+- [x] Tarea diaria programada (9:05 a. m., tarea tramites-rd-exterior-diario)
 
 ## Rutina diaria (la tarea programada)
 1. Tomar el primer tema pendiente de la cola, investigarlo con fuentes oficiales (jce.gob.do, pasaportes.gob.do, mirex.gob.do, consulados, leyes) y medios dominicanos serios, y escribir `contenido/<slug>.md` (700–1200 palabras; sin inventar cifras, tarifas ni plazos).
