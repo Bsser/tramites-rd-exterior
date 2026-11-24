@@ -36,6 +36,7 @@ CTA = f"""<aside class="cta">
 <p>La guía <b>Trámites RD desde el Exterior</b> explica paso a paso la cédula nueva, el pasaporte electrónico, las actas, los hijos nacidos fuera y los poderes, con checklist por trámite. PDF de 10 páginas.</p>
 <a class="boton" href="{TIENDA}">Descargar la guía · {PRECIO}</a>
 <p class="gratis">¿Prefieres empezar gratis? <a href="{{base}}errores-tramites-rd.pdf">Descarga los 10 errores que te hacen perder el viaje (PDF)</a>.</p>
+<p class="gratis">¿Vives fuera y te interesan los dos temas? <a href="https://jontastic64.gumroad.com/l/pack-dominicano">Pack Dominicano: terreno + trámites, 2 guías por US$17</a>.</p>
 </aside>"""
 
 
