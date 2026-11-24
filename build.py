@@ -37,6 +37,7 @@ CTA = f"""<aside class="cta">
 <a class="boton" href="{TIENDA}">Descargar la guía · {PRECIO}</a>
 <p class="gratis">¿Prefieres empezar gratis? <a href="{{base}}errores-tramites-rd.pdf">Descarga los 10 errores que te hacen perder el viaje (PDF)</a>.</p>
 <p class="gratis">¿Vives fuera y te interesan los dos temas? <a href="https://jontastic64.gumroad.com/l/pack-dominicano">Pack Dominicano: terreno + trámites, 2 guías por US$17</a>.</p>
+<p class="gratis">Herramienta gratis: <a href="https://bsser.github.io/calculadoras-rd/">calculadoras de regalía pascual, salario neto y prestaciones laborales</a>.</p>
 </aside>"""
 
 
