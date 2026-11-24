@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bsser.github.io/tramites-rd-exterior/sitemap.xml

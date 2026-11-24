@@ -1,0 +1,28 @@
+:root { --verde:#1a4f8b; --tinta:#1b1f24; --gris:#5b6470; --fondo:#f2f5fa; --papel:#fff; --borde:#d8dee3; }
+@media (prefers-color-scheme: dark) {
+  :root { --verde:#7fb2ff; --tinta:#e7ecef; --gris:#a3adb6; --fondo:#1a2130; --papel:#121614; --borde:#2f3a35; }
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--papel); color: var(--tinta); font: 17px/1.65 system-ui, "Segoe UI", Arial, sans-serif; }
+header, main, footer { max-width: 760px; margin: 0 auto; padding: 0 16px; }
+header { padding-top: 20px; padding-bottom: 12px; border-bottom: 1px solid var(--borde); display: flex; flex-wrap: wrap; gap: 4px 14px; align-items: baseline; }
+.marca { font-weight: 800; font-size: 20px; color: var(--verde); text-decoration: none; }
+header span { color: var(--gris); font-size: 14px; }
+h1 { line-height: 1.2; font-size: clamp(26px, 5vw, 36px); margin: 28px 0 6px; }
+h2 { color: var(--verde); margin-top: 32px; line-height: 1.3; }
+a { color: var(--verde); }
+.fecha { color: var(--gris); font-size: 14px; margin-top: 0; }
+.hero p { font-size: 19px; color: var(--gris); }
+.lista { list-style: none; padding: 0; }
+.lista li { border-bottom: 1px solid var(--borde); padding: 14px 0; }
+.lista li a { font-weight: 700; font-size: 19px; text-decoration: none; }
+.lista li p { margin: 4px 0 0; color: var(--gris); }
+table { border-collapse: collapse; width: 100%; font-size: 15px; display: block; overflow-x: auto; }
+th, td { border: 1px solid var(--borde); padding: 6px 9px; text-align: left; vertical-align: top; }
+th { background: var(--fondo); }
+blockquote { margin: 16px 0; padding: 10px 16px; background: var(--fondo); border-left: 4px solid var(--verde); }
+.cta { margin: 40px 0; padding: 20px; background: var(--fondo); border: 2px solid var(--verde); border-radius: 10px; }
+.cta h3 { margin-top: 0; }
+.boton { display: inline-block; background: var(--verde); color: var(--papel); padding: 12px 20px; border-radius: 8px; font-weight: 700; text-decoration: none; }
+.gratis { font-size: 15px; margin-bottom: 0; }
+footer { color: var(--gris); font-size: 13px; padding-top: 20px; padding-bottom: 40px; border-top: 1px solid var(--borde); margin-top: 40px; }
