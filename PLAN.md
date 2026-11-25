@@ -20,7 +20,7 @@ Meta: ingresos pasivos con una guía PDF (US$12) para dominicanos en el exterior
 
 ## Cola de temas (SEO)
 - [x] Qué pasa si no renuevas la cédula a tiempo (fecha límite y consecuencias, solo con fuente oficial)
-- [ ] Cómo pedir una cita en citas.jce.gob.do paso a paso
+- [x] Cómo pedir una cita en citas.jce.gob.do paso a paso
 - [ ] Cómo declarar en el consulado a un hijo nacido en Estados Unidos
 - [ ] Transcripción del acta de nacimiento extranjera en la JCE
 - [ ] Cómo apostillar un documento dominicano para usarlo en EE. UU.
@@ -43,3 +43,4 @@ Meta: ingresos pasivos con una guía PDF (US$12) para dominicanos en el exterior
 ## Registro
 - 2026-11-24: guía, PDF gratis y blog con 3 artículos creados.
 - 2026-11-24: artículo que-pasa-si-no-renuevas-la-cedula-a-tiempo (plazo del exterior enero 2028 sin confirmar en nota reciente).
+- 2026-11-25: artículo cita-jce-citas-jce-gob-do-paso-a-paso (lista de oficinas sin cita solo de prensa; cancelar/reprogramar y citas grupales sin confirmar).
